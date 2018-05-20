@@ -1,0 +1,18 @@
+.todo-list li {
+    list-style-type: none;
+    line-height: 1.5rem;
+}
+
+button {
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+.task-complete {
+    text-decoration-line: line-through;
+}
+
+.task-active {
+    text-decoration-line: none;
+}
+
